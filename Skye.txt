@@ -1,0 +1,98 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<link rel = "stylesheet" type = "text/css" href = "basic.css" />
+		<title> Skye </title>
+		<style>
+		body {
+			background-image: url('https://4kwallpapers.com/images/wallpapers/skye-valorant-pc-games-2021-3840x2160-5553.jpg');
+			background-repeat: no-repeat;
+			background-attachment: fixed;
+			background-size: cover;
+		}
+		table {
+			background-image: url('https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg');
+			background-repeat: no-repeat;
+			background-attachment: fixed;
+			background-size: cover;
+		}
+		</style>
+	</head>
+	<body>
+
+		<h1> Skye </h1>
+		<ul>
+			<li><a href = "#a"> Role </a></li>
+			<li><a href = "#b"> Abilities </a></li>
+			<li><a href = "#c"> Regrowth </a></li>
+			<li><a href = "#d"> Guiding Light </a></li>
+			<li><a href = "#e"> Trailblazer </a></li>
+			<li><a href = "#f"> Seekers </a></li>
+		</ul>
+		<hr>
+		<h2 id = "a"> Role </h2>
+		<p> Skye's role is Initiator. </p>
+		<hr>
+		<h2 id = "b"> Abilities </h2>
+		<p> Skye's abilities lets her clear corners and catch enemies off guard. </p>
+		<table>
+			<tr>
+				<th>Ability</th>
+				<th>Default Key</th>
+				<th>Uses/Restock</th>
+				<th>Credit/Points</th>
+			</tr>
+			<tr>
+				<th>Regrowth</th>
+				<th>C</th>
+				<th>1 (can be reused until healing bar is depleted.)</th>
+				<th>200</th>
+			</tr>
+			<tr>
+				<th>Trailblazer</th>
+				<th>Q</th>
+				<th>1</th>
+				<th>250</th>
+			</tr>
+			<tr>
+				<th>Guiding Light</th>
+				<th>E</th>
+				<th>2</th>
+				<th>250</th>
+			</tr>
+			<tr>
+				<th>Seekers</th>
+				<th>X</th>
+				<th>N/A</th>
+				<th>7 Ultimate Points</th>
+			</tr>
+		</table>
+		<hr>
+		<h2 id = "c"> Regrowth </h2>
+		<p> Press C to equip a healing trinket. Hold fire (left-click) to heal allies in range of the healing trinket. The healing trinket can be reused until the healing bar is depleted, and Skye cannot heal herself. </p>
+		<video width="320" height="240" controls>
+			<source src="https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt0f5403509070a0a2/5f7fabc5879de80eb41b1f33/Val_Skye_C_Ability_Web.mp4" type="video/mp4">
+		</video>
+		<hr>
+		<h2 id = "d"> Guiding Light </h2>
+		<p> Press E to equip a hawk trinket. Fire (left-click) to send the hawk trinket forward. Hold fire (left-click) to guide the hawk trinket in the direction of your crosshair. Press E again while the hawk is in flight to turn it into a flash that makes a noise if an enemy was blinded. </p>
+		<video width="320" height="240" controls>
+			<source src="https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt8ecea4a77a26c25b/5f7fab7adf178b0ea98495a5/Val_Skye_E_Ability_Web.mp4" type="video/mp4">
+		</video>
+		<hr>
+		<h2 id = "e"> Trailblazer </h2>
+		<p> Press Q to equip a tiger trinket. Fire (left-click) to send and take control of the tiger. When in control of the tiger, fire (left-click) to leap forward, exploding in a concussive blast and damaging enemies that are directly hit. </p>
+		<video width="320" height="240" controls>
+			<source src="https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt90a6f2733b96ce16/5f7faa7dd4fbb50ef307791e/Val_Skye_Q_Ability_Web.mp4" type="video/mp4">
+		</video>
+		<hr>
+		<h2 id = "f"> Seekers </h2>
+		<p> Press X to equip a Seeker trinket. Fire (left-click) to send out three Seekers that track down the three closest enemies. If an enemy is caught by a Seeker, it nearsights them for a few seconds. </p>
+		<video width="320" height="240" controls>	
+			<source src="https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt966535853a54c58c/5f7fac19df178b0ea98495ad/Val_Skye_X_Ability_Web.mp4" type="video/mp4">
+		</video>
+		<a href = "validskye.png"> <img src = "https://lh3.googleusercontent.com/74J5lMzOhbbZQv0Zgl2XvqlYUA6UTKOVrsYUzg5hfrxqSoElJUSi9vOYyFAtI-KC1co6dU8SWEr0Y6k=w1920-h969" alt = "Valid"> </a>
+		<a href = "validbasiccss.png"> <img src = "https://lh5.googleusercontent.com/6q4UtQ9EB8F4CqzUmcI4uAD2FH6CmT2Sxr8hdMTxy226x0ANos8WG3birozC4k56fqU3fv8HXaCdFMQ=w1920-h969" alt = "Valid"> </a>
+	</body>
+</html>

@@ -1,0 +1,96 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<link rel = "stylesheet" type = "text/css" href = "basic.css" />
+		<title> Neon </title>
+	<style>
+		body {
+			background-image: url('https://i.redd.it/xmhrqjnxe3981.jpg');
+			background-repeat: no-repeat;
+			background-attachment: fixed;
+			background-size: cover;
+		}
+		table {
+			background-image: url('https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg');
+			background-repeat: no-repeat;
+			background-attachment: fixed;
+			background-size: cover;
+		}
+	</style>		
+	</head>
+	<body>
+	<h1> Neon </h1>
+		<ul>
+			<li><a href = "#a"> Role </a></li>
+			<li><a href = "#b"> Abilities </a></li>
+			<li><a href = "#c"> Fast Lane </a></li>
+			<li><a href = "#d"> High Gear </a></li>
+			<li><a href = "#e"> Relay Bolt </a></li>
+			<li><a href = "#f"> Overdrive </a></li>
+		</ul>
+		<hr>
+		<h2 id = "a"> Role </h2>
+		<p> Neon's role is Duelist </p>
+		<hr>
+		<h2 id = "b"> Abilities </h2>
+		<p> Neon's has 4 abilities that can be used to lead the team onto site and get early picks. </p>
+		<table>
+			<tr>
+				<th>Ability</th>
+				<th>Default Key</th>
+				<th>Uses/Restock</th>
+				<th>Credit/Points</th>
+			</tr>
+			<tr>
+				<th>Fast Lane</th>
+				<th>C</th>
+				<th>1</th>
+				<th>300</th>
+			</tr>
+			<tr>
+				<th>Relay Bolt</th>
+				<th>Q</th>
+				<th>2</th>
+				<th>200</th>
+			</tr>
+			<tr>
+				<th>High Gear</th>
+				<th>E</th>
+				<th>1 (Use) 2 kills (restock)</th>
+				<th>Free</th>
+			</tr>
+			<tr>
+				<th>Overdrive</th>
+				<th>X</th>
+				<th>N/A</th>
+				<th>7 Ultimate Points</th>
+			</tr>
+		</table>
+		<h2 id = "c"> Fast Lane </h2>
+		<p> Press C to send two energy lines forward that travels in a straight line, stopping if it comes in contact with any terrain. The walls block vision and deals damage to enemies passing through them. </p>
+		<video width="320" height="240" controls>
+			<source src="https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt023814e24e6cad2f/61d8a98914ef402247ceab3a/VAL_Neon_Ability-C_Preview_Walls_noHUD_Web_h264.mp4" type="video/mp4">
+		</video>
+		<hr>
+		<h2 id = "d"> High Gear </h2> 
+		<p> Press E to channel Neon's energy into increased speed. Alt Fire (right-click) to do a electric slide. The slide charge resets every two kills. </p>
+		<video width="320" height="240" controls>
+			<source src="https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt99e20f893b806cc8/61d8a9608aabbf6426b7523a/VAL_Neon_Ability-E_Preview_Sprint_noHUD_Web_h264.mp4" type="video/mp4">
+		</video>
+		<hr>
+		<h2 id = "e"> Relay Bolt </h2>
+		<p> Press Q to throw an energy bolt that bounces once. When the bolt hits the terrain, it electrifies the ground below, creating a concussive blast. </p>
+		<video width="320" height="240" controls>
+			<source src="https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltf634e203f29987a5/61d8a91abf9cb8387cc1d9c8/VAL_Neon_Ability-Q_Preview_Stun_noHUD_Web_h264.mp4" type="video/mp4">
+		</video>
+		<hr>
+		<h2 id = "f"> Overdrive </h2>
+		<p> Press X to unleash Neon's full power and speed for a short amount of time. Fire (left-click) to channel Neon's energy into a deadly lightning beam with high movement accuracy. The time that Neon's full power lasts resets on each kill. </p>
+		<video width="320" height="240" controls>
+			<source src="https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltcbe0e9c4b801f025/61d8a9dfef206c6c5e4941ba/VAL_Neon_Ability-X_Preview_Ult_noHUD_Web_h264.mp4" type="video/mp4">
+		</video>
+		<a href = "validneon.png"> <img src = "https://lh3.googleusercontent.com/74J5lMzOhbbZQv0Zgl2XvqlYUA6UTKOVrsYUzg5hfrxqSoElJUSi9vOYyFAtI-KC1co6dU8SWEr0Y6k=w1920-h969" alt = "Valid"> </a>
+		<a href = "validbasiccss.png"> <img src = "https://lh5.googleusercontent.com/6q4UtQ9EB8F4CqzUmcI4uAD2FH6CmT2Sxr8hdMTxy226x0ANos8WG3birozC4k56fqU3fv8HXaCdFMQ=w1920-h969" alt = "Valid"> </a>
+	</body>
+</html>

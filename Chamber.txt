@@ -1,0 +1,101 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<link rel = "stylesheet" type = "text/css" href = "chamber.css" />
+		<title> Chamber </title>
+		<style>
+		body {
+			background-image: url('https://images.alphacoders.com/118/thumb-1920-1186644.png');
+			background-repeat: no-repeat;
+			background-attachment: fixed;
+			background-size: cover;
+		}
+		table {
+			background-image: url('https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg');
+			background-repeat: no-repeat;
+			background-attachment: fixed;
+			background-size: cover;
+		}
+		</style>
+	</head>
+	<body>
+			<h1> Chamber </h1>
+			<ul>
+				<li><a href = "#a"> Role </a></li>
+				<li><a href = "#b"> Abilities </a></li>
+				<li><a href = "#c"> Headhunter </a></li>
+				<li><a href = "#d"> Rendezvous </a></li>
+				<li><a href = "#e"> Trademark </a></li>
+				<li><a href = "#f"> Tour De Force </a></li> 
+			</ul>
+		
+			<hr>
+			<h2 id = "a"> Role </h2>
+			<p> Chamber's role is Sentinel.</p>
+			<hr>
+			<h2 id = "b"> Abilities </h2>
+			<p> Chamber is one of the few agents that have no special abilities at all. Chamber is a weapon designer, so that's why 2 of his abilities are weapons. </p>
+			<table>
+			<tr>
+				<th>Ability</th>
+				<th>Default Key</th>
+				<th>Uses/Restock</th>
+				<th>Credit/Points</th>
+			</tr>
+			<tr>
+				<th>Trademark</th>
+				<th>C</th>
+				<th>1</th>
+				<th>200</th>
+			</tr>
+			<tr>
+				<th>Headhuntere</th>
+				<th>Q</th>
+				<th>8</th>
+				<th>150</th>
+			</tr>
+			<tr>
+				<th>Rendezvous</th>
+				<th>E</th>
+				<th>45 seconds(Destroyed) 30 seconds(Recalled)</th>
+				<th>Free</th>
+			</tr>
+			<tr>
+				<th>Tour De Force</th>
+				<th>X</th>
+				<th>N/A</th>
+				<th>8 Ultimate Points</th>
+			</tr>
+		</table>
+		<hr>
+		<h2 id = "c"> Headhunter </h2>
+		<p> Press Q to equip a heavy pistol. Alt Fire (right-click) to aim down sights with the pistol and Fire (left-click) to shoot the pistol. </p>
+		<br>
+		<video width="320" height="240" controls>
+		<source src="https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltc97eeaeb138d2155/618d9fb7867d1817d95f3b2b/VAL_broll_EP03-3_Chamber_Q.mp4" type="video/mp4">
+		</video>
+		<hr>
+		<h2 id = "d"> Rendezvous </h2>
+		<p> Press E and Fire (left-click) to place down a teleporter. Place another teleporter that is in range and press E to teleport back to the other teleport. Works vice versa and the teleporters can be picked up, but will have a cooldown to place them back down. </p>
+		<br>
+		<video width="320" height="240" controls>
+			<source src="https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltf1c12ab8f1c119bc/618d9fd2fb61e4021ad339f0/VAL_broll_EP03-3_Chamber_E.mp4" type="video/mp4">
+		</video>
+		<hr>
+		<h2 id = "e"> Trademark </h2>
+		<p> Press C to equip a trap. Fire to place down the trap. When visible enemies come in range, the trap counts down and then makes a slow field which players will be slowed if in it. If enemies get noticed or slowed by the trap, it will alert the character. </p>
+		<br>
+		<video width="320" height="240" controls>
+			<source src="https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt318d4a246e29106a/618d9fdbf71a3113890e9632/VAL_broll_EP03-3_Chamber_C.mp4" type="video/mp4">
+		</video>
+		<hr>
+		<h2 id = "f"> Tour De Force </h2>
+		<p> Press X to summons a sniper that can kill an enemy with a direct hit. When an enemy is killed by this weapon, it creates a field that slows players caught inside of it. The sniper has only 5 bullets. </p>
+		<video width="320" height="240" controls>
+			<source src="https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blta111e90b3f2ce476/618d9fde3b08dd14d79a808f/VAL_broll_EP03-3_Chamber_X.mp4" type="video/mp4">
+		</video>
+		<a href = "validchamber.png"> <img src = "https://lh3.googleusercontent.com/74J5lMzOhbbZQv0Zgl2XvqlYUA6UTKOVrsYUzg5hfrxqSoElJUSi9vOYyFAtI-KC1co6dU8SWEr0Y6k=w1920-h969" alt = "Valid Chamber"> </a>
+		<a href = "validchambercss.png"> <img src = "https://lh5.googleusercontent.com/6q4UtQ9EB8F4CqzUmcI4uAD2FH6CmT2Sxr8hdMTxy226x0ANos8WG3birozC4k56fqU3fv8HXaCdFMQ=w1920-h969" alt = "Valid Css"> </a>
+	</body>
+</html>

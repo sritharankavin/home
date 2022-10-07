@@ -1,0 +1,97 @@
+<!doctype html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<link rel = "stylesheet" type = "text/css" href = "basic.css" />
+		<title> Killjoy </title>
+		<style>
+	body {
+		background-image: url('https://images.wallpapersden.com/image/download/killjoy-hd-valorant_bGlobGqUmZqaraWkpJRnamtlrWZpaWU.jpg');
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		background-size: cover;
+	}
+	table {
+		background-image: url('https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg');
+		background-repeat: no-repeat;
+		background-attachment: fixed;
+		background-size: cover;
+	}
+		</style>
+	</head>
+	<body>
+		<h1> Killjoy </h1>
+		<ul>
+			<li><a href = "#a"> Role </a></li>
+			<li><a href = "#b"> Abilities </a></li>
+			<li><a href = "#c"> Alarmbot </a></li>
+			<li><a href = "#d"> Turret </a></li>
+			<li><a href = "#e"> Nanoswarm </a></li>
+			<li><a href = "#f"> Lockdown </a></li>
+		</ul>
+		<hr>
+		<h2 id = "a"> Role </h2>
+		<p> Killjoy's role is Sentinel </p>
+		<hr>
+		<h2 id = "b"> Abilities </h2>
+		<p> Killjoy is one of the few agents with no supernatural abilities. Her abilities are the technologies she has created. Killjoy is the person that created KAY/O. </p> 
+		<table>
+			<tr>
+				<th>Ability</th>
+				<th>Default Key</th>
+				<th>Uses/Restock</th>
+				<th>Credit/Points</th>
+			</tr>
+			<tr>
+				<th>Nanoswarm</th>
+				<th>C</th>
+				<th>2</th>
+				<th>200</th>
+			</tr>
+			<tr>
+				<th>Alarmbot</th>
+				<th>Q</th>
+				<th>1</th>
+				<th>200</th>
+			</tr>
+			<tr>
+				<th>Turret</th>
+				<th>E</th>
+				<th>1 (Use) 20 seconds (Recalled) 45 seconds (Destroyed)</th>
+				<th>Free</th>
+			</tr>
+			<tr>
+				<th>Lockdown</th>
+				<th>X</th>
+				<th>N/A</th>
+				<th>7 Ultimate Points</th>
+			</tr>
+		</table>
+		<h2 id = "c"> Alarmbot </h2>
+		<p> Press C to equip a Alarmbot. Fire (left-click) to place the bot that catches any enemies in its range. After reachiing the enemy, the bot explodes, applying Vulnerability. Hold C to recall the Alarmbot if its deployed. </p>
+		<video width="320" height="240" controls>
+			<source src="https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt9a8fa11ac887550e/5f2203522f812a7c016f5651/AlarmBot_LowQuality.mp4" type="video/mp4">
+		</video>
+		<hr>
+		<h2 id = "d"> Turret </h2>
+		<p> Press E to equip a Turret. Fire (left-click) to place down the turret that fires at enemies in a 180 degree cone. Hold E to recall the Turret if its deployed. </p>
+		<video width="320" height="240" controls>
+			<source src="https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt0fe3462ae9a025a4/5f220396074360086ccdd908/Turret_LowQuality.mp4" type="video/mp4">
+		</video>
+		<hr>
+		<h2 id = "e"> Nanoswarm </h2>
+		<p> Press C to equip a Nanoswarm grenade. Fire (left-click) to throw the grenade at where the crosshair is aimed at. When it lands the Nanoswarm becomes invisible. Press C again when the Nanoswarm lands to deploy a damaging swarm of nanobots. </p>
+		<video width="320" height="240" controls>
+			<source src="https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/blt4aed833e1b0df155/5f2204694be7297d7e6c8449/Grenade_LowQuality.mp4" type="video/mp4">
+		</video>
+		<hr>
+		<h2 id = "f"> Lockdown </h2>
+		<p> Press X to equip a Lockdown device. Fire (left-click) to deploy the device which lasts for a couple of seconds. Anyone within the radius of the device will get detained. This device can be destroyed by enemies. </p>
+		<video width="320" height="240" controls>
+			<source src="https://assets.contentstack.io/v3/assets/bltb6530b271fddd0b1/bltf74d72b162a14692/5f2204ab8ff50d070ad2d192/Ultimate_LowQualityV02.mp4" type="video/mp4">
+		</video>
+		<a href = "validkilljoy.png"> <img src = "https://lh3.googleusercontent.com/74J5lMzOhbbZQv0Zgl2XvqlYUA6UTKOVrsYUzg5hfrxqSoElJUSi9vOYyFAtI-KC1co6dU8SWEr0Y6k=w1920-h969" alt = "Valid"> </a>
+		<a href = "validbasiccss.png"> <img src = "https://lh5.googleusercontent.com/6q4UtQ9EB8F4CqzUmcI4uAD2FH6CmT2Sxr8hdMTxy226x0ANos8WG3birozC4k56fqU3fv8HXaCdFMQ=w1920-h969" alt = "Valid"> </a>
+	</body>
+</html>
+	
