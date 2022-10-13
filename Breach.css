@@ -1,30 +1,6 @@
-p
-{
-	text-align:left;
-	font-size:13pt;
-	color:#87ceeb;
-}
-
-h2
-{
-	color:#87ceeb;
-}
-h1
-{
-	text-align:center;
-	color:#87ceeb;
-}
-table
-{
-	color: #87ceeb
-}
-a
-{
-	color:#87ceeb;
-}
 body 
 {
-	background-image: url('https://images.alphacoders.com/118/thumb-1920-1186644.png');
+	background-image: url('https://images5.alphacoders.com/108/1080938.jpg');
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: cover;
@@ -35,4 +11,17 @@ table
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: cover;
+}
+p
+{
+	color: white;
+}
+h1
+{
+	color: white;
+	text-align: center;
+}
+h2
+{
+	color: white;
 }

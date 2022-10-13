@@ -1,22 +1,27 @@
+body 
+{
+	background-image: url('https://images6.alphacoders.com/115/1152788.png');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+table 
+{
+	background-image: url('https://coolbackgrounds.io/images/backgrounds/white/pure-white-background-85a2a7fd.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
 p
 {
-	text-align:left;
-	font-size:13pt;
-	color:#FFFFFF;
-}
-h2
-{
-	color:#000000;
+	color: white;
 }
 h1
 {
-	text-align:center;
+	color: white;
+	text-align: center;
 }
-a
+h2
 {
-	color: #87ceeb;
-}
-table
-{
-	color:#000000
+	color: white;
 }
