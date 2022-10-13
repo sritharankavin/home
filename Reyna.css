@@ -1,6 +1,6 @@
 body 
 {
-	background-image: url('reyna.jpg');
+	background-image: "reyna.jpg";
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: cover;
