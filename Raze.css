@@ -1,6 +1,6 @@
 body 	
 {
-	background-image: "raze.jpg";
+	background-image: url('raze.jpg');
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: cover;
